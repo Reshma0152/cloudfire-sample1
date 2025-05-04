@@ -22,4 +22,4 @@ UI, Workflows & Features
    running that command"; now it means "yes, if there is a plausible
    typofix for the command name, please run it immediately".
 
-  Modifying file to understand timestamp in git central repository
+  
