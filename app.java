@@ -14,13 +14,9 @@ UI, Workflows & Features
    selection to produce a packfile with deeper history than window
    size.
 
- * "git gc" learned the "--expire-to" option and passes it down to
-   underlying "git repack".
-
- * "[help] autocorrect = 1" used to be a way to say "please wait for
-   0.1 second after suggesting a typofix of the command name before
-   running that command"; now it means "yes, if there is a plausible
-   typofix for the command name, please run it immediately".
-
-
 Adding line to the feature.1.0 branch to see the changes
+=======
+  
+>>>>>>> master
+
+bugfix has been done by removing bad code
