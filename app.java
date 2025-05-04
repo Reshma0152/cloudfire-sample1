@@ -21,3 +21,5 @@ UI, Workflows & Features
    0.1 second after suggesting a typofix of the command name before
    running that command"; now it means "yes, if there is a plausible
    typofix for the command name, please run it immediately".
+
+  Modifying file to understand timestamp in git central repository
